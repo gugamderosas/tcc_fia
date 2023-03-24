@@ -1,2 +1,2 @@
 # tcc_fia
-Em construção
+Construção do TCC de Data Science da FIA
